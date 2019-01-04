@@ -1,4 +1,4 @@
-# Write a code to reove deuplicates from an unsorted linked list
+# Write a code to remove deuplicates from an unsorted linked list
 
 # Standard Python implementation of Node object
 class Node: 
